@@ -45,5 +45,5 @@ app.get('/products', function(req, res) {
 });
 
 app.listen(3000, function() {
-    console.log("Server is listening on port 3002. Ready to accept requests!");
+    console.log("Aplicacion en marcha!!");
 });
